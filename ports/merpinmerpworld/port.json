@@ -1,0 +1,34 @@
+{
+  "version": 4,
+  "name": "merpinmerpworld.zip",
+  "items": [
+    "Merp in Merpworld.sh",
+    "merpinmerpworld"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Merp in Merpworld",
+    "porter": [
+      "MadShmupper"
+    ],
+    "desc": "An adventure platformer that will change the universe. \nExplore fields of warm grass and wildflowers. Glide through the sky with your leaf. Elude predating fauna, or make mischief instead.",
+    "desc_md": null,
+    "inst": "Ready to run ",
+    "inst_md": null,
+    "genres": [
+      "adventure",
+      "platformer"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": [
+      "weston_pkg_0.2.squashfs"
+    ],
+    "store": [],
+    "availability": "full",
+    "reqs": [],
+    "arch": [],
+    "min_glibc": ""
+  }
+}
